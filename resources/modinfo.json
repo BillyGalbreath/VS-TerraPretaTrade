@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "name": "Terra Preta Trade",
+  "modid": "terrapretatrade",
+  "version": "1.0.0",
+  "description": "Add terra preta to agriculture trades",
+  "authors": ["BillyGalbreath"],
+  "side": "Server",
+  "dependencies": {
+    "game": "1.19.0"
+  }
+}

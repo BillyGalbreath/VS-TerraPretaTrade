@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "file": "game:entities/humanoid/trader-agriculture.json",
+    "path": "/attributes/tradeProps/buying/list/-",
+    "value": {
+      "code": "game:soil-high-none",
+      "type": "block",
+      "stacksize": 16,
+      "stock": { "avg": 4, "var": 1 },
+      "price": { "avg": 4, "var": 1 }
+    }
+  },
+  {
+    "op": "add",
+    "file": "game:entities/humanoid/trader-agriculture.json",
+    "path": "/attributes/tradeProps/selling/list/-",
+    "value": {
+      "code": "game:soil-high-none",
+      "type": "block",
+      "stacksize": 8,
+      "stock": { "avg": 4, "var": 1 },
+      "price": { "avg": 4, "var": 1 }
+    }
+  }
+]
